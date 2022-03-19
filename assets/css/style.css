@@ -1,0 +1,50 @@
+body {
+  height: 100cm;
+  background-color: #c77dff;
+}
+
+.opacity-75 {
+  background-color: #10002b;
+  font-size: 50px;
+}
+
+img {
+  margin-top: 0px;
+  height: 21.7cm;
+  width: 40cm;
+}
+
+.starter {
+  background-color: #10002b;
+  color: #3c096c;
+  display: flex;
+  justify-content: center;
+}
+
+.starter-2 {
+  background-color: #10002b;
+  color: #3c096c;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+.poster {
+  width: 220px;
+  height: 297px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 0%;
+  padding-top: 50px;
+  padding-left: 100px;
+  margin-block-end: -40px;
+  margin-block-start: 15px;
+}

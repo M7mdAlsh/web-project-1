@@ -1,0 +1,50 @@
+body {
+  background-color: #e0aaff;
+  height: 50cm;
+  background-repeat: no-repeat;
+}
+.poster-text {
+  width: 800px;
+  font-size: 90px;
+  display: flex;
+  margin-top: 14px;
+  margin-left: 40px;
+}
+
+.starter {
+  height: 30px;
+  width: 30cm;
+  margin-top: -35px;
+  margin-left: -560px;
+  background-color: #8858da;
+}
+
+img {
+  margin-top: 0px;
+  height: 22.7cm;
+  width: 40cm;
+}
+.post-of-post {
+  width: 298px;
+  height: 397px;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 400px;
+  justify-content: sp;
+}
+
+.end-page {
+  background-color: #10002b;
+  height: 320px;
+  display: flex;
+  align-items: flex-end;
+}
+
+button {
+  height: 30px;
+  display: flex;
+  margin-top: 500px;
+  margin-left: 20px;
+  flex-wrap: wrap;
+}
